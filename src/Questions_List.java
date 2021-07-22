@@ -25,7 +25,7 @@ public class Questions_List
         String answerType = ""; //whether or not an answer is correct, this gets returned to class Millionaire_Game.
         if (count == 1) {
             //The first question of the game
-            System.out.println("1) In the wireless phone abbreviation â€œ4G,â€ the â€œGâ€ stands for what?");
+            System.out.println("1) In the wireless phone abbreviation “4G,” the “G” stands for what?");
             System.out.println("  A. Gigabytes");
             System.out.println("  B. Generation");
             System.out.println("  C. Gillete");
@@ -47,7 +47,7 @@ public class Questions_List
         }
         else if (count == 2) {
             //The second question of the game.
-            System.out.println("2) What pop star made his TV acting debut in 2010, playing teenage bomber Jason McCann on â€œCSIâ€?");
+            System.out.println("2) What pop star made his TV acting debut in 2010, playing teenage bomber Jason McCann on “CSI”?");
             System.out.println("  A. Harry Styles");
             System.out.println("  B. Ross Lynch");
             System.out.println("  C. Justin Bieber");
@@ -67,7 +67,7 @@ public class Questions_List
             }
         }
         else if (count == 3) {
-            System.out.println("3) Someone or something that is given up for the common good is often called the â€œsacrificialâ€ what?");
+            System.out.println("3) Someone or something that is given up for the common good is often called the “sacrificial” what?");
             System.out.println("  A. Cow");
             System.out.println("  B. Dove");
             System.out.println("  C. Lamb");
@@ -87,7 +87,7 @@ public class Questions_List
             }
         }
         else if (count == 4) {
-            System.out.println("4) On the human body, the area of skin known as â€œThe T-zoneâ€ is located where?");
+            System.out.println("4) On the human body, the area of skin known as “The T-zone” is located where?");
             System.out.println("  A. Face");
             System.out.println("  B. Back");
             System.out.println("  C. Chest");
@@ -107,7 +107,7 @@ public class Questions_List
             }
         }
         else if (count == 5) {
-            System.out.println("5) What keyboard symbolâ€™s name comes from a Greek word meaning â€œlittle starâ€?");
+            System.out.println("5) What keyboard symbol's name comes from a Greek word meaning “little star”?");
             System.out.println("  A. Ellipsis ...");
             System.out.println("  B. Asterisk *");
             System.out.println("  C. Ampersand &");
@@ -201,7 +201,7 @@ public class Questions_List
             }
         }
         else if (count == 9) {
-            System.out.println("9) Coined in recent years, the term â€œludologyâ€ often refers to the academic study of what?");
+            System.out.println("9) Coined in recent years, the term “ludology” often refers to the academic study of what?");
             System.out.println("  A. Video Games");
             System.out.println("  B. Human Body");
             System.out.println("  C. Comedy");
@@ -221,11 +221,11 @@ public class Questions_List
             }
         }
         else if (count == 10) {
-            System.out.println("10) As Scar in â€œThe Lion King,â€ Jeremy Irons repeats what famous line from â€œReversal of Fortuneâ€?");
-            System.out.println("  A. â€œI killed Mufasa.â€");
-            System.out.println("  B. â€œSo prepare for the coup of the century.â€");
-            System.out.println("  C. â€œYou have no idea.â€");
-            System.out.println("  D. â€œI wouldn't dream of challenging you.â€");
+            System.out.println("10) As Scar in “The Lion King,” Jeremy Irons repeats what famous line from “Reversal of Fortune”?");
+            System.out.println("  A. “I killed Mufasa.”");
+            System.out.println("  B. “So prepare for the coup of the century.”");
+            System.out.println("  C. “You have no idea.”");
+            System.out.println("  D. “I wouldn't dream of challenging you.”");
             System.out.print("What's your final answer? ");
             letterSelection = answerScnr.next();
             if (letterSelection.equalsIgnoreCase("C")) {
@@ -295,7 +295,7 @@ public class Questions_List
             }
         }
         else if (count == 13) {
-            System.out.println("13) The capital letter-heavy album â€œNKOTBSBâ€ features 5 hits from New Kids On The Block and what other band?");
+            System.out.println("13) The capital letter-heavy album “NKOTBSB” features 5 hits from New Kids On The Block and what other band?");
             System.out.println("  A. The Beach Boys");
             System.out.println("  B. The Beatles");
             System.out.println("  C. Bon Jovi");
@@ -315,7 +315,7 @@ public class Questions_List
             }
         }
         else if (count == 14) {
-            System.out.println("14) Famously cited in â€œRomeo and Juliet,â€ which of these gestures was considered an insult in Elizabethan times?");
+            System.out.println("14) Famously cited in “Romeo and Juliet,” which of these gestures was considered an insult in Elizabethan times?");
             System.out.println("  A. Punching someone");
             System.out.println("  B. Biting your thumb");
             System.out.println("  C. The OK hand gesture");
