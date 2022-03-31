@@ -1,4 +1,4 @@
-# MillionaireGame
+# "Who Wants to be a Millionaire" Game
 This is a text-based rendition of the famous tv show: "Who Wants to be a Millionaire!". This program will ask you a series of questions
 an reward you with (imaginary) sums of money. Answer all the questions correctly to win the game.
 
