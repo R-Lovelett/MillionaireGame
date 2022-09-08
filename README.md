@@ -7,7 +7,7 @@ Created 12/09/15
 
 # Project Run Instructions
 1. Clone Project to PC.
-   - ***Instructions if needed: [https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository](url)***
+   - ***Instructions if needed: [Github Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)***
 
 2. Open in code editor or choice (I used IntelliJ, although it wasn't originally created with it)
 
