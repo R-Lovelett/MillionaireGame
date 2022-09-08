@@ -7,11 +7,13 @@ Created 12/09/15
 
 # Project Run Instructions
 1. Clone Project to PC.
-   - ***Instructions if needed: [https://www.youtube.com/watch?v=aBVOAnygcZw](url)***
+   - ***Instructions if needed: [https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository](url)***
 
-2. Run Main Class
+2. Open in code editor or choice (I used IntelliJ, although it wasn't originally created with it)
 
-3. Dialog will pop up in box on bottom of window, simply enter Yes or No to start, and then A, B, C, or D to answer each question.
+3. Run Main Class
+
+4. Dialog will pop up in box, simply enter Yes or No to start, and then A, B, C, or D to answer each question.
 
 # What I Learned
 
